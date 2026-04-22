@@ -1,4 +1,4 @@
-theme: minima
-title: Demo data science portfolio
+title: Porfolio
+theme: jekyll-theme-minimal
 author: Hadear Rizq
 description: An example of a data science portfolio showcasing coursework and projects.
