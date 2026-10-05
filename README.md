@@ -10,4 +10,4 @@ This is my data science portfolio
 
 Simmons University
 
-[Project_1](https://HadearR.github.io/df_portfolio/Projects/MBTA.html)
+[Project 1](https://HadearR.github.io/df_portfolio/Projects/MBTA.html)
