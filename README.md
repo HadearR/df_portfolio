@@ -5,7 +5,9 @@ A collection of data science projects I have worked on. The projects focus on da
 ## Education
 
 **Simmons University**
+
 Computer Science Major
+
 Data Science Minor
 
 
