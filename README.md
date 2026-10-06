@@ -32,7 +32,7 @@ A step-by-step tutorial demonstrating data wrangling techniques in R using EPA f
 - Explored the data to identify patterns in vehicle classes and fuel efficiency.
 - Created visualizations comparing fuel efficiency across vehicles with different numbers of cylinders.
 - Demonstrated common data wrangling and visualization techniques throughout the tutorial.
--**Keywords** (R, Tidyverse, Data Wrangling, Data Cleaning, Data Visualization, EPA Fuel Economy)
+- **Keywords** (R, Tidyverse, Data Wrangling, Data Cleaning, Data Visualization, EPA Fuel Economy)
 
   <img width="1344" height="960" alt="Unknown" src="https://github.com/user-attachments/assets/824392a3-a1c1-4898-a4ac-102f5f1f8cdd" />
 
